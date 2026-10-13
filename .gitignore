@@ -1,0 +1,4 @@
+# Solo se publica la web; todo lo demás de esta carpeta queda fuera
+*
+!index.html
+!.gitignore
